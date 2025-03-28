@@ -16,7 +16,7 @@ login_manager.init_app(app)
 login_manager.login_view = 'login'
 
 users = {
-    "rajeevan": generate_password_hash("865865")
+    "rajeevan": generate_password_hash("121212")
 }
 
 
